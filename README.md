@@ -5,12 +5,11 @@ Informações de quem fez:
   Linkedin: https://www.linkedin.com/in/breno-cardoso-4087b0205/  
 
 Informaçõe do programa:  
-  Linguagens do programa: Pyhton  
-  Programa comentado: Sim  
-  Programa com icone: Sim  
-  Nome do icone: Logo.png  
-  Nome do arquivo do programa: Genius.py  
-  Tipo de programa: Com Interface grafica  
-  Versão da linguagem utlizada quando o programa foi feito: Python 3.9.2  
-  Versão do programa: 1.0  
-  O que o programa faz: O programa é o famoso jogo genius no qual vc tem que acertar as sequencia de cores.
+  Linguagens do sistema: HTML, CSS, JavaScript  
+  Programa comentado: Não  
+  Programa com icone: Não  
+  Nome do icone: Não tem  
+  Nome do arquivo do sistema: Index.html, sytle.css, script.js  
+  Tipo de sistema: Site
+  Versão do sistema: 1.0  
+  O que o sistema faz: O sistema pede ao usuario a inserção de seu nome e seu salario atual, apos isso o usuario clica no botão calcular e sistema exibe os devidos resultados.
